@@ -1,6 +1,7 @@
 ---
 title: About
 layout: page
+icon: glyphicon-question-sign
 ---
 
 #About The Site:

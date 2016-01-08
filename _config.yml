@@ -2,7 +2,7 @@ gems : [jekyll-paginate]
 # Site settings
 title: Foundational Neuroscience
 email: charlesfrye@berkeley.edu
-description: ~90 Questions About Neuroscience
+description: Neuroscience Questions with Neuroscience Answers
 
 exclude: scripts
 
@@ -11,7 +11,7 @@ exclude: scripts
 #   line in _config.yml. It will appear in your document head meta (for
 #   Google search results) and in your feed.xml site description.
 
-baseurl: "/FoundationalNeuroscience/" # the subpath of your site, e.g. /blog/
+baseurl: "/FoundationalNeuroscience" # the subpath of your site, e.g. /blog/
 url: "http://charlesfrye.github.io" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
 #github_username: charlesfrye

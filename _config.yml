@@ -11,10 +11,10 @@ exclude: scripts
 #   line in _config.yml. It will appear in your document head meta (for
 #   Google search results) and in your feed.xml site description.
 
-# baseurl: "/FoundationalNeuroscience/" # the subpath of your site, e.g. /blog/
-# url: "http://charlesfrye.github.io" # the base hostname & protocol for your site
+baseurl: "/FoundationalNeuroscience/" # the subpath of your site, e.g. /blog/
+url: "http://charlesfrye.github.io" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
-github_username: charlesfrye
+#github_username: charlesfrye
 permalink: /:year/:month/:day/:title/
 
 # Build settings

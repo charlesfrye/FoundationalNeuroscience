@@ -149,10 +149,10 @@ nav{
 	padding: 0 7px 1px 7px;
 	border-radius: 9px;
 	float: right;
-	transition:0.4s ease;
+	/*transition:0.4s ease;
 	-webkit-transition:0.4s ease;
 	-moz-transition:0.4s ease;
-	-o-transition:0.4s ease;
+	-o-transition:0.4s ease; */
 }
 .categories-list-item:hover .my-badge{
 	-webkit-transform:rotate(360deg) scale(1.2);

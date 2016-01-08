@@ -4,7 +4,7 @@ title: Foundational Neuroscience Questions
 email: charlesfrye@berkeley.edu
 description: Neuroscience Questions with Neuroscience Answers
 
-exclude: scripts
+exclude: scripts,egs,answers
 
 # > # this means to ignore newlines until "baseurl:"
 #   Write an awesome description for your new site here. You can edit this

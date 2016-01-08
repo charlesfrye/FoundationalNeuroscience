@@ -103,9 +103,7 @@ My name is [Charles Frye](https://github.com/charlesfrye) and I am a graduate st
 
 [37]({{ site.url }}/37):   What is the evidence for and against the existence of critical periods in brain development?
 
-[38]({{ site.url }}/38):   What is adult neurogenesis? Where does it occur in the brain? Describe evidence that adult
-
-[neurogenesis is involved in different types of learning]({{ site.url }}/neurogenesis is involved in different types of learning): 
+[38]({{ site.url }}/38):   What is adult neurogenesis? Where does it occur in the brain? Describe evidence that adult neurogenesis is involved in different types of learning): 
 
 [39]({{ site.url }}/39):   What has resting-state fMRI research revealed about the development of large-scale brain networks in humans?
 

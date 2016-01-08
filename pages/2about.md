@@ -1,11 +1,9 @@
 ---
-title: about
+title: About
 layout: page
 ---
 
 #About The Site:
-
-URL IS {{page.url}}
 
 The following are questions about the fundamentals of neuroscience. I will be answering them at a rate of about one per day between January and April of 2016.
 

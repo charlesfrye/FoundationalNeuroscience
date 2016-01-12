@@ -4,12 +4,7 @@ title: Foundational Neuroscience Questions
 email: charlesfrye@berkeley.edu
 description: Neuroscience Questions with Neuroscience Answers
 
-exclude: scripts,egs,answers
-
-# > # this means to ignore newlines until "baseurl:"
-#   Write an awesome description for your new site here. You can edit this
-#   line in _config.yml. It will appear in your document head meta (for
-#   Google search results) and in your feed.xml site description.
+exclude: [scripts,egs,answers,oldanswers]
 
 baseurl: "/FoundationalNeuroscience" # the subpath of your site, e.g. /blog/
 url: "http://charlesfrye.github.io" # the base hostname & protocol for your site

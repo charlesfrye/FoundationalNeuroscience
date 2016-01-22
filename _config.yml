@@ -8,7 +8,7 @@ exclude: [scripts,egs,answers,oldanswers]
 
 baseurl: "/FoundationalNeuroscience" # the subpath of your site, e.g. /blog/
 url: "http://charlesfrye.github.io" # the base hostname & protocol for your site
-# twitter_username: jekyllrb
+fullurl: "http://charlesfrye.github.io/FoundationalNeuroscience"
 #github_username: charlesfrye
 permalink: /:title/
 
@@ -19,7 +19,6 @@ paginate: 10
 paginate_path: "page:num"
 
 # highlight
-# 本地用rouge, github上用pygments
 highlighter: pygments
 # highlighter: rouge
 # highlighter: false

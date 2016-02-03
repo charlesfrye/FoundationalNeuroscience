@@ -20,5 +20,5 @@ paginate_path: "page:num"
 
 # highlight
 #highlighter: pygments
- highlighter: rouge
+highlighter: rouge
 # highlighter: false

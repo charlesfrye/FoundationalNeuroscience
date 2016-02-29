@@ -4,18 +4,18 @@ layout: page
 icon: glyphicon-question-sign
 ---
 
-#About The Site:
+# About The Site:
 
 The following are questions about the fundamentals of neuroscience. I will be answering them at a rate of about one per day between January and April of 2016.
 
-#About Me:
+# About Me:
 
 My name is [Charles Frye](https://github.com/charlesfrye) and I am a graduate student in the [Helen Wills Neuroscience Institute](http://neuroscience.berkeley.edu/) at the University of California, Berkeley. I am answering these questions in preparation for my oral exam to qualify as a PhD candidate.
 
-#The Questions:
+# The Questions:
 
 
-##I. Sensation
+## I. Sensation
 
 [01]({{ site.url }}{{site.baseurl}}/01): What are the signal transduction cascades for sensory detection of light, odors, and tastes in mammals?
 
@@ -40,7 +40,7 @@ My name is [Charles Frye](https://github.com/charlesfrye) and I am a graduate st
 [11]({{ site.url }}{{site.baseurl}}/11):   What is Bayes' Rule? Explain how an aspect of perception can be expressed in terms of Bayes' Rule.  (See: Wolpert & Ghahramani)
 
 
-##II. Control Of Movement
+## II. Control Of Movement
 
 [12]({{ site.url }}{{site.baseurl}}/12):   Describe the key cortical areas and subcortical structures of the motor system.  Give an example of how these components contribute to the performance of a simple motor task such as reaching and how they contribute to the performance of a skilled action like playing the piano.
 
@@ -55,7 +55,7 @@ My name is [Charles Frye](https://github.com/charlesfrye) and I am a graduate st
 [17]({{ site.url }}{{site.baseurl}}/17):   Describe the major components of a generic brain-machine interface for restoring motor function in a paralyzed person.
 
 
-##III. Neuronal Biophysics
+## III. Neuronal Biophysics
 
 [18]({{ site.url }}{{site.baseurl}}/18):   How do K+ channels pass K+ and Rb+ but exclude Na+ and Cs+?
 
@@ -74,7 +74,7 @@ My name is [Charles Frye](https://github.com/charlesfrye) and I am a graduate st
 [25]({{ site.url }}{{site.baseurl}}/25):   In computational neuroscience, what is an integrate-and-fire neuron?  How does it differ from a real neuron?
 
 
-##IV. Synaptic Transmission And Plasticity
+## IV. Synaptic Transmission And Plasticity
 
 [26]({{ site.url }}{{site.baseurl}}/26):   What are the steps in synaptic transmission?
 
@@ -89,7 +89,7 @@ My name is [Charles Frye](https://github.com/charlesfrye) and I am a graduate st
 [31]({{ site.url }}{{site.baseurl}}/31):   What are gap junctions, and how do they impact the function of neural networks?
 
 
-##V. Development
+## V. Development
 
 [32]({{ site.url }}{{site.baseurl}}/32):   What is a morphogen? How do morphogens generate different cell fates in the spinal cord?
 
@@ -108,7 +108,7 @@ My name is [Charles Frye](https://github.com/charlesfrye) and I am a graduate st
 [39]({{ site.url }}{{site.baseurl}}/39):   What has resting-state fMRI research revealed about the development of large-scale brain networks in humans?
 
 
-##VI. Learning And Memory
+## VI. Learning And Memory
 
 [40]({{ site.url }}{{site.baseurl}}/40):   Define the following types of learning and memory and summarize their neural correlates: working memory, declarative/semantic memory, perceptual learning, procedural learning, episodic memory.
 
@@ -125,7 +125,7 @@ My name is [Charles Frye](https://github.com/charlesfrye) and I am a graduate st
 [46]({{ site.url }}{{site.baseurl}}/46):  How you distinguish whether a difference in behavior between two ages is due to an innate developmental program versus learning?
 
 
-##VII. Neural Networks And Coding
+## VII. Neural Networks And Coding
 
 [47]({{ site.url }}{{site.baseurl}}/47):  Describe the differences between rate coding and temporal coding, and give examples of each in the nervous system.
 
@@ -142,7 +142,7 @@ My name is [Charles Frye](https://github.com/charlesfrye) and I am a graduate st
 [53]({{ site.url }}{{site.baseurl}}/53):   A typical cortical neuron receives the vast majority of its synaptic input from other cortical neurons.  If each input is roughly Poisson in its firing statistics, then what should the output statistics of the neuron resemble?  If this model neuron's output is not Poisson, then propose some possible explanations for how it is that the output of cortical neurons are highly variable despite the many random inputs they receive.
 
 
-##VIII. Neuromodulation And Brain State
+## VIII. Neuromodulation And Brain State
 
 [54]({{ site.url }}{{site.baseurl}}/54):   Describe how circadian rhythms are generated at the cellular level.
 
@@ -159,7 +159,7 @@ My name is [Charles Frye](https://github.com/charlesfrye) and I am a graduate st
 [60]({{ site.url }}{{site.baseurl}}/60):   What is spontaneous activity in the nervous system?  Is it random?  What does it arise from?
 
 
-##IX. Attention And Executive Functions
+## IX. Attention And Executive Functions
 
 [61]({{ site.url }}{{site.baseurl}}/61):   What are the similarities and differences between endogenous/top-down and exogenous/bottom-up attention?   What is known about their anatomical substrates and physiological mechanisms?
 
@@ -176,7 +176,7 @@ My name is [Charles Frye](https://github.com/charlesfrye) and I am a graduate st
 [67]({{ site.url }}{{site.baseurl}}/67):   Is there a specialized neural system for processing social information?  What is the evidence for and against such a hypothesis? (See: Adolphs 2003)
 
 
-##X. Anatomy And Organization
+## X. Anatomy And Organization
 
 [68]({{ site.url }}{{site.baseurl}}/68):  What are the basic functions of glia and mechanisms of gliotransmission?
 
@@ -197,7 +197,7 @@ My name is [Charles Frye](https://github.com/charlesfrye) and I am a graduate st
 [76]({{ site.url }}{{site.baseurl}}/76):   Name two brain areas thought to be involved in language. What roles they seem to play?
 
 
-##XI. Tools And Methods
+## XI. Tools And Methods
 
 [77]({{ site.url }}{{site.baseurl}}/77):   What is channelrhodopsin, what organism was it derived from, and how does it control activity in a neuron?
 
@@ -216,7 +216,7 @@ My name is [Charles Frye](https://github.com/charlesfrye) and I am a graduate st
 [84]({{ site.url }}{{site.baseurl}}/84):   Describe the advantages and disadvantages of each the following experimental methods for cognitive neuroscience studies: PET, EEG, TMS.
 
 
-##XII. Diseases Of The Nervous System
+## XII. Diseases Of The Nervous System
 
 [85]({{ site.url }}{{site.baseurl}}/85):   Explain what is meant by templated protein misfolding (seeded protein misfolding). Give some examples of the role of this process in neurological disease.
 

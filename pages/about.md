@@ -4,13 +4,10 @@ layout: page
 icon: glyphicon-question-sign
 ---
 
-# About The Site:
-
-The following are questions about the fundamentals of neuroscience. I will be answering them at a rate of about one per day between January and April of 2016.
-
 # About Me:
 
-My name is [Charles Frye](https://github.com/charlesfrye) and I am a graduate student in the [Helen Wills Neuroscience Institute](http://neuroscience.berkeley.edu/) at the University of California, Berkeley. I am answering these questions in preparation for my oral exam to qualify as a PhD candidate.
+My name is [Charles Frye](https://github.com/charlesfrye) and I am a graduate student in the [Helen Wills Neuroscience Institute](http://neuroscience.berkeley.edu/) at the University of California, Berkeley.
+These questions are one component of the oral qualifying exam.
 
 # The Questions:
 

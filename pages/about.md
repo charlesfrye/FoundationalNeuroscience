@@ -6,8 +6,8 @@ icon: glyphicon-question-sign
 
 # About Me:
 
-My name is [Charles Frye](https://github.com/charlesfrye) and I am a graduate student in the [Helen Wills Neuroscience Institute](http://neuroscience.berkeley.edu/) at the University of California, Berkeley.
-These questions are one component of the oral qualifying exam.
+My name is [Charles Frye](https://charlesfrye.github.io/about) and I am a graduate student in the [Helen Wills Neuroscience Institute](http://neuroscience.berkeley.edu/) at the University of California, Berkeley.
+These questions are one component of my department's  oral qualifying exam.
 
 # The Questions:
 

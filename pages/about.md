@@ -9,6 +9,12 @@ icon: glyphicon-question-sign
 My name is [Charles Frye](https://charlesfrye.github.io/about) and I am a graduate student in the [Helen Wills Neuroscience Institute](http://neuroscience.berkeley.edu/) at the University of California, Berkeley.
 These questions are one component of my department's  oral qualifying exam.
 
+This blog is no longer updated.
+Check out my
+[personal blog](https://charlesfrye.github.io)
+for more blog posts,
+with a slightly mathier bent.
+
 This page reflects the list of questions as of May 2016.
 Fourty-four of the questions (roughly half) are answered on this blog.
 

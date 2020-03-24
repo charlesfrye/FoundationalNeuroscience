@@ -25,5 +25,6 @@ paginate_path: "page:num"
 #highlighter: pygments
 kramdown:
   syntax_highlighter: rouge
+  smart_quotes: ["apos", "apos", "quot", "quot"]
 #highlighter: rouge
 # highlighter: false

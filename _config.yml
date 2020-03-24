@@ -5,8 +5,9 @@ email: charlesfrye@berkeley.edu
 description: Neuroscience Questions with Neuroscience Answers
 
 exclude: [scripts,egs,answers,oldanswers]
+encoding: UTF-8
 
-baseurl: "/FoundationalNeuroscience" # the subpath of your site, e.g. /blog/
+baseurl: "/FoundationalNeuroscience/" # the subpath of your site, e.g. /blog/
 url: "http://charlesfrye.github.io" # the base hostname & protocol for your site
 fullurl: "http://charlesfrye.github.io/FoundationalNeuroscience"
 imgurl: "http://charlesfrye.github.io/FoundationalNeuroscience/img"

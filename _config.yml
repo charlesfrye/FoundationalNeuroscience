@@ -1,4 +1,4 @@
-gems : [jekyll-paginate]
+plugins : [jekyll-paginate]
 # Site settings
 title: Foundational Neuroscience Questions
 email: charlesfrye@berkeley.edu
